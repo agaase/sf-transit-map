@@ -1,0 +1,666 @@
+[
+  {
+    "tag": "E",
+    "title": "E-Embarcadero",
+    "lat": null,
+    "lon": null,
+    "color": "667744",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "F",
+    "title": "F-Market & Wharves",
+    "lat": null,
+    "lon": null,
+    "color": "555555",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "J",
+    "title": "J-Church",
+    "lat": null,
+    "lon": null,
+    "color": "cc6600",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "KT",
+    "title": "KT-Ingleside/Third Street",
+    "lat": null,
+    "lon": null,
+    "color": "cc0033",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "L",
+    "title": "L-Taraval",
+    "lat": null,
+    "lon": null,
+    "color": "660099",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "M",
+    "title": "M-Ocean View",
+    "lat": null,
+    "lon": null,
+    "color": "006633",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "N",
+    "title": "N-Judah",
+    "lat": null,
+    "lon": null,
+    "color": "003399",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "NX",
+    "title": "NX-Express",
+    "lat": null,
+    "lon": null,
+    "color": "003399",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "1",
+    "title": "1-California",
+    "lat": null,
+    "lon": null,
+    "color": "cc6600",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "1AX",
+    "title": "1AX-California A Express",
+    "lat": null,
+    "lon": null,
+    "color": "990000",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "1BX",
+    "title": "1BX-California B Express",
+    "lat": null,
+    "lon": null,
+    "color": "cc3333",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "2",
+    "title": "2-Clement",
+    "lat": null,
+    "lon": null,
+    "color": "000000",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "3",
+    "title": "3-Jackson",
+    "lat": null,
+    "lon": null,
+    "color": "339999",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "5",
+    "title": "5-Fulton",
+    "lat": null,
+    "lon": null,
+    "color": "666699",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "5R",
+    "title": "5R-Fulton Rapid",
+    "lat": null,
+    "lon": null,
+    "color": "666699",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "6",
+    "title": "6-Haight-Parnassus",
+    "lat": null,
+    "lon": null,
+    "color": "996699",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "7",
+    "title": "7-Haight-Noriega",
+    "lat": null,
+    "lon": null,
+    "color": "b07d00",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "7R",
+    "title": "7R-Haight-Noriega Rapid",
+    "lat": null,
+    "lon": null,
+    "color": "b07d00",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "7X",
+    "title": "7X-Noriega Express",
+    "lat": null,
+    "lon": null,
+    "color": "b07d00",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "8",
+    "title": "8-Bayshore",
+    "lat": null,
+    "lon": null,
+    "color": "  ",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "8AX",
+    "title": "8AX-Bayshore A Express",
+    "lat": null,
+    "lon": null,
+    "color": "b07d00",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "8BX",
+    "title": "8BX-Bayshore B Express",
+    "lat": null,
+    "lon": null,
+    "color": "b07d00",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "9",
+    "title": "9-San Bruno",
+    "lat": null,
+    "lon": null,
+    "color": "889944",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "9R",
+    "title": "9R-San Bruno Rapid",
+    "lat": null,
+    "lon": null,
+    "color": "889944",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "10",
+    "title": "10-Townsend",
+    "lat": null,
+    "lon": null,
+    "color": "b07d00",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "12",
+    "title": "12-Folsom-Pacific",
+    "lat": null,
+    "lon": null,
+    "color": "b07d00",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "14",
+    "title": "14-Mission",
+    "lat": null,
+    "lon": null,
+    "color": "339999",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "14R",
+    "title": "14R-Mission Rapid",
+    "lat": null,
+    "lon": null,
+    "color": "339999",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "14X",
+    "title": "14X-Mission Express",
+    "lat": null,
+    "lon": null,
+    "color": "cc0033",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "18",
+    "title": "18-46th Avenue",
+    "lat": null,
+    "lon": null,
+    "color": "996699",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "19",
+    "title": "19-Polk",
+    "lat": null,
+    "lon": null,
+    "color": "000000",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "21",
+    "title": "21-Hayes",
+    "lat": null,
+    "lon": null,
+    "color": "660000",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "22",
+    "title": "22-Fillmore",
+    "lat": null,
+    "lon": null,
+    "color": "ff6633",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "23",
+    "title": "23-Monterey",
+    "lat": null,
+    "lon": null,
+    "color": "b07d00",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "24",
+    "title": "24-Divisadero",
+    "lat": null,
+    "lon": null,
+    "color": "996699",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "25",
+    "title": "25-Treasure Island",
+    "lat": null,
+    "lon": null,
+    "color": "996699",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "27",
+    "title": "27-Bryant",
+    "lat": null,
+    "lon": null,
+    "color": "660099",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "28",
+    "title": "28-19th Avenue",
+    "lat": null,
+    "lon": null,
+    "color": "000000",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "28R",
+    "title": "28R-19th Avenue Rapid",
+    "lat": null,
+    "lon": null,
+    "color": "000000",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "29",
+    "title": "29-Sunset",
+    "lat": null,
+    "lon": null,
+    "color": "ff6633",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "30",
+    "title": "30-Stockton",
+    "lat": null,
+    "lon": null,
+    "color": "990099",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "30X",
+    "title": "30X-Marina Express",
+    "lat": null,
+    "lon": null,
+    "color": "cc0033",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "31",
+    "title": "31-Balboa",
+    "lat": null,
+    "lon": null,
+    "color": "339999",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "31AX",
+    "title": "31AX-Balboa A Express",
+    "lat": null,
+    "lon": null,
+    "color": "990000",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "31BX",
+    "title": "31BX-Balboa B Express",
+    "lat": null,
+    "lon": null,
+    "color": "cc3333",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "33",
+    "title": "33-Ashbury-18th St",
+    "lat": null,
+    "lon": null,
+    "color": "660000",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "35",
+    "title": "35-Eureka",
+    "lat": null,
+    "lon": null,
+    "color": "ff6633",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "36",
+    "title": "36-Teresita",
+    "lat": null,
+    "lon": null,
+    "color": "003399",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "37",
+    "title": "37-Corbett",
+    "lat": null,
+    "lon": null,
+    "color": "000000",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "38",
+    "title": "38-Geary",
+    "lat": null,
+    "lon": null,
+    "color": "ff6633",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "38R",
+    "title": "38R-Geary Rapid",
+    "lat": null,
+    "lon": null,
+    "color": "cc3333",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "38AX",
+    "title": "38AX-Geary A Express",
+    "lat": null,
+    "lon": null,
+    "color": "990000",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "38BX",
+    "title": "38BX-Geary B Express",
+    "lat": null,
+    "lon": null,
+    "color": "cc3333",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "39",
+    "title": "39-Coit",
+    "lat": null,
+    "lon": null,
+    "color": "ff6633",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "41",
+    "title": "41-Union",
+    "lat": null,
+    "lon": null,
+    "color": "b07d00",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "43",
+    "title": "43-Masonic",
+    "lat": null,
+    "lon": null,
+    "color": "006633",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "44",
+    "title": "44-O'Shaughnessy",
+    "lat": null,
+    "lon": null,
+    "color": "ff6633",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "45",
+    "title": "45-Union-Stockton",
+    "lat": null,
+    "lon": null,
+    "color": "006633",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "47",
+    "title": "47-Van Ness",
+    "lat": null,
+    "lon": null,
+    "color": "667744",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "48",
+    "title": "48-Quintara-24th Street",
+    "lat": null,
+    "lon": null,
+    "color": "cc6600",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "49",
+    "title": "49-Van Ness-Mission",
+    "lat": null,
+    "lon": null,
+    "color": "b07d00",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "52",
+    "title": "52-Excelsior",
+    "lat": null,
+    "lon": null,
+    "color": "889944",
+    "oppColor": "000000"
+  },
+  {
+    "tag": "54",
+    "title": "54-Felton",
+    "lat": null,
+    "lon": null,
+    "color": "cc0033",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "55",
+    "title": "55-16th Street",
+    "lat": null,
+    "lon": null,
+    "color": "cc0033",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "56",
+    "title": "56-Rutland",
+    "lat": null,
+    "lon": null,
+    "color": "990099",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "57",
+    "title": "57-Parkmerced",
+    "lat": null,
+    "lon": null,
+    "color": "990099",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "66",
+    "title": "66-Quintara",
+    "lat": null,
+    "lon": null,
+    "color": "666699",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "67",
+    "title": "67-Bernal Heights",
+    "lat": null,
+    "lon": null,
+    "color": "555555",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "76X",
+    "title": "76X-Marin Headlands Express",
+    "lat": null,
+    "lon": null,
+    "color": "555555",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "81X",
+    "title": "81X-Caltrain Express",
+    "lat": null,
+    "lon": null,
+    "color": "cc0033",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "82X",
+    "title": "82X-Levi Plaza Express",
+    "lat": null,
+    "lon": null,
+    "color": "cc0033",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "83X",
+    "title": "83X-Mid-Market Express",
+    "lat": null,
+    "lon": null,
+    "color": "cc0033",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "88",
+    "title": "88-Bart Shuttle",
+    "lat": null,
+    "lon": null,
+    "color": "555555",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "90",
+    "title": "90-San Bruno Owl",
+    "lat": null,
+    "lon": null,
+    "color": "660000",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "91",
+    "title": "91-Owl",
+    "lat": null,
+    "lon": null,
+    "color": "667744",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "K_OWL",
+    "title": "K-Owl",
+    "lat": null,
+    "lon": null,
+    "color": "198080",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "L_OWL",
+    "title": "L-Owl",
+    "lat": null,
+    "lon": null,
+    "color": "330066",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "M_OWL",
+    "title": "M-Owl",
+    "lat": null,
+    "lon": null,
+    "color": "004d19",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "N_OWL",
+    "title": "N-Owl",
+    "lat": null,
+    "lon": null,
+    "color": "001980",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "T_OWL",
+    "title": "T-Owl",
+    "lat": null,
+    "lon": null,
+    "color": "660019",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "59",
+    "title": "Powell/Mason Cable Car",
+    "lat": null,
+    "lon": null,
+    "color": "cc3399",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "60",
+    "title": "Powell/Hyde Cable Car",
+    "lat": null,
+    "lon": null,
+    "color": "4444a4",
+    "oppColor": "ffffff"
+  },
+  {
+    "tag": "61",
+    "title": "California Cable Car",
+    "lat": null,
+    "lon": null,
+    "color": "9ac520",
+    "oppColor": "000000"
+  }
+]

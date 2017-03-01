@@ -1,0 +1,7 @@
+.DS_Store
+*.sketch
+data/*zip
+css/*.css*
+css/.sass*
+archive
+*pdf
