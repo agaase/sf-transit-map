@@ -1,7 +1,7 @@
 .DS_Store
 *.sketch
 data/*zip
-css/*.css*
+css/*.css.map
 css/.sass*
 archive
 *pdf

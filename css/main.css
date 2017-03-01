@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden; }
+
+#map {
+  position: relative;
+  overflow: hidden; }
+  #map path {
+    fill: none;
+    stroke-linejoin: round;
+    stroke-linecap: round; }
+  #map .path {
+    stroke: #A1887F; }
+  #map .rail {
+    stroke: #D7CCC8; }
+  #map .major_road {
+    stroke: #9E9E9E;
+    stroke-width: 1.3px; }
+  #map .minor_road {
+    stroke: #E0E0E0; }
+  #map .highway {
+    stroke: #424242;
+    stroke-width: 1.5px; }
+  #map .vehicleMarker {
+    transition: all 1s linear;
+    cursor: pointer; }
+    #map .vehicleMarker.hidden {
+      display: none; }
+  #map .leaflet-marker-icon {
+    transition: transform 500ms linear; }
+    #map .leaflet-marker-icon.hidden {
+      display: none; }
+  #map .routePaths .routeStop {
+    fill: #FFFFFF;
+    stroke: #03A9F4;
+    stroke-width: 2px; }
+    #map .routePaths .routeStop.last {
+      fill: #03A9F4;
+      stroke: #ffffff; }
+  #map .routePaths .routePath {
+    stroke: #03A9F4;
+    stroke-width: 3px; }
+
+.container-fluid {
+  height: 100%; }
+  .container-fluid > .row {
+    height: 100%; }
+  .container-fluid #menu {
+    padding-left: 25px;
+    padding-right: 25px;
+    height: 100%;
+    box-shadow: 0 0 5px; }
+    .container-fluid #menu .currentTime {
+      font-size: 125%;
+      margin-top: 5px;
+      margin-bottom: 25px;
+      color: #999; }
+    .container-fluid #menu .header {
+      height: 10%; }
+    .container-fluid #menu .routesAll {
+      height: 50%; }
+      .container-fluid #menu .routesAll .form-group {
+        height: 100%; }
+        .container-fluid #menu .routesAll .form-group .list.routes {
+          height: 70%;
+          overflow: scroll; }
+          .container-fluid #menu .routesAll .form-group .list.routes .route {
+            cursor: pointer; }
+            .container-fluid #menu .routesAll .form-group .list.routes .route.selected {
+              background-image: url(../images/selected.png);
+              background-size: auto 50%;
+              background-repeat: no-repeat;
+              background-position: 95% center; }
+            .container-fluid #menu .routesAll .form-group .list.routes .route:hover {
+              opacity: 0.5; }
+    .container-fluid #menu .routesSelected {
+      height: 40%; }
+      .container-fluid #menu .routesSelected .routeSelected {
+        padding-right: 40px;
+        background-image: url(../images/cross.png);
+        background-size: auto 50%;
+        background-repeat: no-repeat;
+        background-position: 88% center;
+        color: #fff;
+        margin-right: 10px;
+        margin-bottom: 10px; }
+
+.info {
+  position: absolute;
+  z-index: 10;
+  padding: 10px 15px;
+  box-shadow: 0 0 4px;
+  background-color: #fff;
+  border-radius: 5px;
+  border: 3px solid #03A9F4; }
+  .info .dir {
+    font-size: 70%; }
+
+/*# sourceMappingURL=main.css.map */
