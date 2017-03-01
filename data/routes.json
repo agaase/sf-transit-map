@@ -5,7 +5,8 @@
     "lat": null,
     "lon": null,
     "color": "667744",
-    "oppColor": "ffffff"
+    "oppColor": "ffffff",
+    "lightRail" : true
   },
   {
     "tag": "F",

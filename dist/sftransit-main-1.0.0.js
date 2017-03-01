@@ -1,3 +1,6 @@
+/*! sftransit.js - v1.0.0 - 2017-03-01
+* https://github.com/agaase/
+* Copyright (c) 2017 agaase; Licensed MIT */
 var MapRender = (function(){
     var timestamp, map, oldVehLocs, newVehLocs={}, vehicleOnMap={},routesFilter=[], svgGlobal;
 

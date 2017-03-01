@@ -1,0 +1,26 @@
+{
+  "name": "sf-transit",
+  "version": "1.0.0",
+  "description": "SF transit live map",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+     "grunt": "0.4.2",
+     "grunt-contrib-clean": "0.5.0",
+     "grunt-contrib-concat": "0.3.0",
+     "grunt-contrib-jshint": "0.8.0",
+     "grunt-contrib-uglify": "0.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agaase/sf-transit-map.git"
+  },
+  "author": "agaase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agaase/sf-transit-map/issues"
+  },
+  "homepage": "https://github.com/agaase/sf-transit-map#readme"
+}
