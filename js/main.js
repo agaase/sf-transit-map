@@ -13,7 +13,7 @@ var MapRender = (function(){
             .scale(220000);
 
         var zoom = d3.zoom()
-                     .scaleExtent([1, 10])
+                     .scaleExtent([1, 2])
                      .on("zoom", function(){
                         svgGlobal.style("transform", "translate(" + d3.event.transform.x + "px," + d3.event.transform.y + "px) scale(" + d3.event.transform.k + ")");
                      });
