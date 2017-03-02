@@ -26,7 +26,7 @@ module.exports = function(grunt) {
                 },
                 files: {
                     'dist/<%= distName %>-lib-<%= meta.version %>.js': ['js/lib/d3.v4.min.js','js/lib/d3.geo.tile.js','js/lib/angular.min.js'],
-                    'dist/<%= distName %>-main-<%= meta.version %>.js': ['js/*.js']
+                    'dist/<%= distName %>-main-<%= meta.version %>.js': ['js/maprender.js','js/main.js']
                 }
             }
         },
@@ -68,7 +68,8 @@ module.exports = function(grunt) {
                         window:true,
                         localStorage:true,
                         angular:true,
-                        $:true
+                        $:true,
+                        MapRender:true
                     }
                 },
                 src: ['js/main.js']
